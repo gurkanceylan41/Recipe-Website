@@ -9,5 +9,6 @@ This application allows users to search for recipes, view recipe details, add in
 
 - Like Recipes: Users can like their favorite recipes to save them for later viewing. 
 
-Screen Gif : ![Recipe](https://github.com/gurkanceylan41/Recipe-Website/assets/165313565/423bd0ae-ce6b-41c7-aafe-0a0740b1efdf)
+# Screen Gif :
+![Recipe](https://github.com/gurkanceylan41/Recipe-Website/assets/165313565/423bd0ae-ce6b-41c7-aafe-0a0740b1efdf)
 
